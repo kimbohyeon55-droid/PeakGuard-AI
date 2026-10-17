@@ -1,0 +1,11 @@
+# Only the reviewed documentation and housekeeping files belong in this edition.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/docs/
+/docs/*
+!/docs/ARCHITECTURE.md
+!/docs/DEVELOPMENT_WORKFLOW.md
+!/docs/AI_ASSISTANCE.md
+!/docs/PUBLICATION_SCOPE.md
